@@ -1,1 +1,0 @@
-console.log('ReSYR site loaded');
